@@ -119,8 +119,12 @@ cve@@@@CVE-2021-21985
 cve@@@@CVE-2021-21986
 #
 #
-#
-signature=*FortiManager*
+# Fortinet Releases Security Updates for FortiManager and FortiAnalyzer (CVE-2021-32589)
+# https://us-cert.cisa.gov/ncas/current-activity/2021/07/19/fortinet-releases-security-updates-fortimanager-and-fortianalyzer
+# https://www.fortiguard.com/psirt/FG-IR-21-067
+signature@@@@*FortiManager*
+signature@@@@*FortiAnalyzer*
+cve@@@@CVE-2021-32589
 #
 #
 # Proof-of-Concept Leaked for Critical Windows Print Spooler Vulnerability
