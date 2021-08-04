@@ -145,3 +145,8 @@ signature@@@@*kaseya*
 # https://www.theregister.com/2021/07/12/solarwinds_patch_attack/
 cve@@@@CVE-2021-35211
 signature@@@@*serv-u*
+#
+#
+# QNX
+signature@@@*qnx*
+#
