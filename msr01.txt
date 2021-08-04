@@ -152,3 +152,8 @@ signature@@@@*serv-u*
 # https://us-cert.cisa.gov/ncas/alerts/aa20-133a
 # Prooves any 201* in name with software version starting with 1 (i.e. 13, 14, 15)
 software@@@@Microsoft SharePoint Server 201*!!!!1*
+#
+#
+# QNX
+signature@@@*qnx*
+#
