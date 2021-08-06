@@ -3,6 +3,8 @@
 #bugtraq@@@@blah
 #msft@@@@blah
 #signature@@@@blah
+#software@@@@blah
+#software@@@@blah!!!version
 #
 cve@@@@CVE-2017-0199
 cve@@@@CVE-2017-5638
@@ -18,6 +20,7 @@ cve@@@@CVE-2019-11510
 cve@@@@CVE-2020-1350
 cve@@@@CVE-2021-21972
 mskb@@@@kb6969696
+# signature@@@@*teamviewer*
 signature@@@@*accellion*
 signature@@@@*sonicwall*
 signature@@@@*centreon*
@@ -133,17 +136,22 @@ cve@@@@CVE-2021-32589
 signature@@@@*CVE-2021-1675*
 #
 #
-# Kaseya VSA ransomware attack
-# https://us-cert.cisa.gov/ncas/current-activity/2021/07/02/kaseya-vsa-supply-chain-ransomware-attack
-# https://www.kaseya.com/potential-attack-on-kaseya-vsa/
+#https://us-cert.cisa.gov/ncas/current-activity/2021/07/02/kaseya-vsa-supply-chain-ransomware-attack
 signature@@@@*kaseya*
+software@@@@*kaseya*
 #
-#
+# 
 # Serv-U Remote Memory Escape Vulnerability
 # https://www.solarwinds.com/trust-center/security-advisories/cve-2021-35211
 # https://www.theregister.com/2021/07/12/solarwinds_patch_attack/
 cve@@@@CVE-2021-35211
 signature@@@@*serv-u*
+#
+#
+# Outdated SharePoint Server (Top 10 Routinely Exploited Vulnerabilities)
+# https://us-cert.cisa.gov/ncas/alerts/aa20-133a
+# Prooves any 201* in name with software version starting with 1 (i.e. 13, 14, 15)
+# software@@@@Microsoft SharePoint Server 201*!!!!1*
 #
 #
 # QNX
