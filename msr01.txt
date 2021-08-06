@@ -20,6 +20,7 @@ cve@@@@CVE-2019-11510
 cve@@@@CVE-2020-1350
 cve@@@@CVE-2021-21972
 mskb@@@@kb6969696
+# signature@@@@*teamviewer*
 signature@@@@*accellion*
 signature@@@@*sonicwall*
 signature@@@@*centreon*
@@ -150,7 +151,7 @@ signature@@@@*serv-u*
 # Outdated SharePoint Server (Top 10 Routinely Exploited Vulnerabilities)
 # https://us-cert.cisa.gov/ncas/alerts/aa20-133a
 # Prooves any 201* in name with software version starting with 1 (i.e. 13, 14, 15)
-software@@@@Microsoft SharePoint Server 201*!!!!1*
+# software@@@@Microsoft SharePoint Server 201*!!!!1*
 #
 #
 # QNX
