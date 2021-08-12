@@ -160,3 +160,9 @@ software@@@@*SharePoint*
 # QNX
 signature@@@*qnx*
 #
+#
+# Instincti hunting for Teamviewer installs
+# enosysau_soc-group/incubator/instincti#6
+signature@@@@*teamviewer*
+software@@@@*teamviewer*
+#
