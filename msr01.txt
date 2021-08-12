@@ -151,7 +151,10 @@ signature@@@@*serv-u*
 # Outdated SharePoint Server (Top 10 Routinely Exploited Vulnerabilities)
 # https://us-cert.cisa.gov/ncas/alerts/aa20-133a
 # Prooves any 201* in name with software version starting with 1 (i.e. 13, 14, 15)
-# software@@@@Microsoft SharePoint Server 201*!!!!1*
+# Prooves new software functionality SplunkCodeEnosys#990
+software@@@@Microsoft SharePoint Server 201*!!!!1*
+cve@@@@CVE-2019-0604
+software@@@@*SharePoint*
 #
 #
 # QNX
