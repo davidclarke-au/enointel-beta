@@ -166,3 +166,10 @@ signature@@@*qnx*
 signature@@@@*teamviewer*
 software@@@@*teamviewer*
 #
+#
+# Instincti hunting for Teamviewer installs
+# enosysau_soc-group/incubator/instincti#7
+signature@@@@*anydesk*
+software@@@@*anydesk*
+#
+#
