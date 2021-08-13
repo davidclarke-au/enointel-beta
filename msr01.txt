@@ -167,7 +167,7 @@ signature@@@@*teamviewer*
 software@@@@*teamviewer*
 #
 #
-# Instincti hunting for Teamviewer installs
+# Instincti hunting for Anydesk installs
 # enosysau_soc-group/incubator/instincti#7
 signature@@@@*anydesk*
 software@@@@*anydesk*
