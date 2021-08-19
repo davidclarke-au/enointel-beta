@@ -157,3 +157,12 @@ signature@@@@*serv-u*
 # QNX
 signature@@@*qnx*
 #
+#
+# Fortinet FortiWeb OS Command Injection (CVE-2021-22123)
+# https://www.rapid7.com/blog/post/2021/08/17/fortinet-fortiweb-os-command-injection/
+# https://twitter.com/wugeej/status/1427837907453104140?s=20
+# https://www.fortiguard.com/psirt/FG-IR-21-116
+cve@@@@CVE-2021-22123
+signature@@@@*FortiWeb*
+#
+#
