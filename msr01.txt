@@ -188,5 +188,6 @@ signature@@@@*FortiWeb*
 # https://www.cyber.gov.au/acsc/view-all-content/alerts/remote-code-execution-vulnerability-present-certain-versions-atlassian-confluence
 cve@@@CVE-2021-26084
 signature@@@@*confluence*
+software@@@@*confluence*
 #
 #
