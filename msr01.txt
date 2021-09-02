@@ -183,3 +183,10 @@ cve@@@@CVE-2021-22123
 signature@@@@*FortiWeb*
 #
 #
+# Confluence
+# https://confluence.atlassian.com/doc/confluence-security-advisory-2021-08-25-1077906215.html
+# https://www.cyber.gov.au/acsc/view-all-content/alerts/remote-code-execution-vulnerability-present-certain-versions-atlassian-confluence
+cve@@@CVE-2021-26084
+signature@@@@*confluence*
+#
+#
