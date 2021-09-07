@@ -191,3 +191,11 @@ signature@@@@*confluence*
 software@@@@*confluence*
 #
 #
+# Proof-of-Concepts released for multiple Netgear Smart Switch vulnerabilities
+# https://kb.netgear.com/000063978/Security-Advisory-for-Multiple-Vulnerabilities-on-Some-SmartSwitches-PSV-2021-0140-PSV-2021-0144-PSV-2021-0145
+# https://gynvael.coldwind.pl/?id=740
+# https://gynvael.coldwind.pl/?id=741
+# PSV-2021-0140, PSV-2021-0144. PSV-2021-0145
+signature@@@@*netgear*
+#
+#
