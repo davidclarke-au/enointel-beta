@@ -166,3 +166,11 @@ cve@@@@CVE-2021-22123
 signature@@@@*FortiWeb*
 #
 #
+# RCE 0 Day for ghostscript
+# https://twitter.com/emil_lerner/status/1430502815181463559
+# https://therecord.media/ghostscript-zero-day-allows-full-server-compromises/
+# https://twitter.com/ducnt_/status/1434534373416574983
+# https://github.com/duc-nt/RCE-0-day-for-GhostScript-9.50
+signature@@@@*ghostscript*
+#
+#
