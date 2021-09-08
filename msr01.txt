@@ -208,3 +208,9 @@ signature@@@@*ghostscript*
 software@@@@@*ghostscript*
 #
 #
+# Zoho ManageEngine 0 Day
+# https://therecord.media/cisa-warns-of-zoho-server-zero-day-exploited-in-the-wild/
+signature@@@@*manageengine*
+software@@@@@*manageengine*
+signature@@@@*manage*engine*
+software@@@@@*manage*engine*
