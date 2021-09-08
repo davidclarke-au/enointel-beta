@@ -33,14 +33,6 @@ signature@@@@*SAP NetWeaver*
 signature@@@@*SAP Solution Manager*
 #
 #
-# Zoho ManageEngine 0 Day
-# https://therecord.media/cisa-warns-of-zoho-server-zero-day-exploited-in-the-wild/
-signature@@@@*manageengine*
-software@@@@@*manageengine*
-signature@@@@*manage*engine*
-software@@@@@*manage*engine*
-#
-#
 cve@@@@CVE-2021-28480
 cve@@@@CVE-2021-28481
 cve@@@@CVE-2021-28482
@@ -180,5 +172,13 @@ signature@@@@*FortiWeb*
 # https://twitter.com/ducnt_/status/1434534373416574983
 # https://github.com/duc-nt/RCE-0-day-for-GhostScript-9.50
 signature@@@@*ghostscript*
+#
+#
+# Zoho ManageEngine 0 Day
+# https://therecord.media/cisa-warns-of-zoho-server-zero-day-exploited-in-the-wild/
+signature@@@@*manageengine*
+software@@@@@*manageengine*
+signature@@@@*manage*engine*
+software@@@@@*manage*engine*
 #
 #
