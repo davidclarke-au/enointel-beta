@@ -33,6 +33,14 @@ signature@@@@*SAP NetWeaver*
 signature@@@@*SAP Solution Manager*
 #
 #
+# Zoho ManageEngine 0 Day
+# https://therecord.media/cisa-warns-of-zoho-server-zero-day-exploited-in-the-wild/
+signature@@@@*manageengine*
+software@@@@@*manageengine*
+signature@@@@*manage*engine*
+software@@@@@*manage*engine*
+#
+#
 cve@@@@CVE-2021-28480
 cve@@@@CVE-2021-28481
 cve@@@@CVE-2021-28482
